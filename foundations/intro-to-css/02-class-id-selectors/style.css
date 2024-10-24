@@ -11,3 +11,9 @@
 .bigger {
   font-size: 24px;
 }
+
+#number-4 {
+  background-color: #6dfc9c;
+  font-size: 24px;
+  font-weight: bold;
+}
